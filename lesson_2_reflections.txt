@@ -5,3 +5,7 @@ Git puts in a hidden folder to track changes to the files in that directory. It 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The wroking directory has all files in it, not just ones for git. The staging area has only the files ready for commit, so you can choosewhat is commited? I'm not sure what value that has.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can git add to add the file for the commit. Then git diff --staged to see what will be committed.
