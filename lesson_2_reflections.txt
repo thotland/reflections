@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git puts in a hidden folder to track changes to the files in that directory. It does not do a commit when it initializes. That has to be done manually.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The wroking directory has all files in it, not just ones for git. The staging area has only the files ready for commit, so you can choosewhat is commited? I'm not sure what value that has.
