@@ -4,7 +4,7 @@ Git puts in a hidden folder to track changes to the files in that directory. It 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The wroking directory has all files in it, not just ones for git. The staging area has only the files ready for commit, so you can choosewhat is commited? I'm not sure what value that has.
+The working directory has all files in it, not just ones for git. The staging area has only the files ready for commit, so you can choose what is committed? I'm not sure what value that has.
 
 How can you use the staging area to make sure you have one commit per logical change?
 
@@ -17,3 +17,7 @@ When two people want to work on different ways to accomplish the same goal, each
 How do diagrams help you visualize the branch structure?
 
 They, um, visualize it- make it visible? It's easier to track which branches connect to which and where they diverge from the master.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way that we do?
+
+The result is a file that has parts of both files. It preserves the commit history of both branches.
