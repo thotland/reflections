@@ -21,3 +21,8 @@ They, um, visualize it- make it visible? It's easier to track which branches con
 What is the result of merging two branches together? Why do we represent it in the diagram the way that we do?
 
 The result is a file that has parts of both files. It preserves the commit history of both branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Auto: can figure out lots of diff quickly, highlights conflicts, ensures nothing is missed
+Manual: can logically reason out conflicts in code, slow and more intentional, won't drop things you want in there
