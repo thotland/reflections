@@ -22,3 +22,14 @@ remote stored locally?
   You can also use it to see if there have been changes to the GitHub
   repository between commits, and merge both local and remote changes.
   Unlike trying to access the same file which creates a conflict.
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+  I have been using email to communicate changes, with google drive to
+  store different versions of the same program. It is easier in that there
+  is no tracking of versions to do, ie. committing and pushing and doing
+  pull requests, which saves some time up front. But it is increasingly
+  harder to keep track of versions of these softwares. And as I get more
+  into contributing to the project, harder to communicate the changes I'd
+  like to see in the code. And there is jumping from email to editor to
+  program to editor to email. And all the machines that need to be updated!
+  It would be easier to use Git for version control.
