@@ -33,3 +33,8 @@ easier, and what would be harder?
   like to see in the code. And there is jumping from email to editor to
   program to editor to email. And all the machines that need to be updated!
   It would be easier to use Git for version control.
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+  Changing directly in master turns out to be faster, and you'd always have
+  the updated version with pulling. But doing changes in branches gives the
+  main author control over what gets put into the master.
