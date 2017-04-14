@@ -9,3 +9,8 @@ Describe the differences between forks, clones, and branches. When would you use
   Forks copy and credit repositories only on GitHub. A fork "Parent" does not change when changing the personal fork.
   Clones copy the repository locally or from GitHub. Clones get updated with push/pull.
   Branches can isolate the master from being changed. They can allow experimentation without affecting the main code.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  You can compare it to your local copy without altering it, so you can see how far off you are.
+  You can also use it to see if there have been changes to the GitHub repository between commits,
+  and merge both local and remote changes. Unlike trying to access the same file which
+  creates a conflict.
